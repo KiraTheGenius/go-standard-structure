@@ -1,4 +1,4 @@
-# go-standard-structure
+# Go Standard Structure
 Running the Server
 
 To run the HTTP server:
