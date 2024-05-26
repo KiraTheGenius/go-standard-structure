@@ -36,3 +36,8 @@ The server will start on http://localhost:8080 by default.
   ```go 
     go mod vendor
   ```
+
+## Refrences
++ https://go.dev/doc/modules/layout
++ https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html
++ https://github.com/golang-standards/project-layout
